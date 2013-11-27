@@ -1,0 +1,14 @@
+Summary: BRIEF_SUMMARY
+Package: PKGNAME
+Version: VERSION_MAJOR
+Release: VERSION_MINOR
+License: GPL3
+Source: PKGNAME-VERSION_MAJOR-VERSION_MINOR.tar.gz
+Section: base
+Priority: optional
+Architecture: i386
+Installed-Size: SIZE
+Depends:
+Packager: USERNAME <USER_EMAIL>
+Maintainer: USERNAME <USER_EMAIL>
+Description: BIG_SUMMARY
